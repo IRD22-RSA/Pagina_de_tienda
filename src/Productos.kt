@@ -1,0 +1,1 @@
+class Productos (var id: Int, var nombre: String, var precio: Double)
